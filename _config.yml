@@ -1,3 +1,9 @@
+################################
+#                              #
+#   bundle exec jekyll serve   #
+#                              # 
+################################
+
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
@@ -70,6 +76,7 @@ collections:
         permalink: /wiki/:path/
 
 repository: sibosendteam/sibosendteam.github.io
+repository: sibosend/openvpn-admin-ui
 
 # ---------------- #
 #      Comments    #
