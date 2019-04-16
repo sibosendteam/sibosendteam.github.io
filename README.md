@@ -2,7 +2,7 @@
 
 ### 效果预览
 
- * [在线预览 &rarr;](https://https://sibosendteam.github.io)
+ * [在线预览 &rarr;](https://sibosendteam.github.io)
 
 ### 文章发布
  * 参考_posts目录template.md
