@@ -1,0 +1,20 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Java
+      - C++
+      - Python
+      - Php
+      - Go
+
+- name: Mobile Developer Keywords
+  keywords:
+      - Android
+      - iOS
+
+# - name: Windows Developer Keywords
+#   keywords:
+#       - Win32 SDK
+#       - DuiLib
+#       - WTL
+#       - COM
+#       - WinDbg
