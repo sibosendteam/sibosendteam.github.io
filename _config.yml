@@ -5,7 +5,7 @@ baseurl:
 url: https://sibosendteam.github.io
 date_format: "ordinal"
 title: Sibosend Team
-subtitle: "èªæ˜åœ¨äºå‹¤å¥‹ï¼Œå¤©æ‰åœ¨äºç§¯ç´¯"
+subtitle: "´ÏÃ÷ÔÚÓÚÇÚ·Ü£¬Ìì²ÅÔÚÓÚ»ıÀÛ"
 # description: "#####"
 keywords: sibosend,sibosend team,team
 encoding: "utf-8"
@@ -28,15 +28,15 @@ email: support@sibosend.com
 navs:
   -
     href: /
-    label: é¦–é¡µ
+    label: Ê×Ò³
 
   -
     href: /categories/
-    label: åˆ†ç±»
+    label: ·ÖÀà
 
   -
     href: /about/
-    label: å…³äº
+    label: ¹ØÓÚ
 
 # ---------------- #
 #       RSS        #
@@ -76,7 +76,7 @@ repository: sibosendteam/sibosendteam.github.io
 # ---------------- #
 # support provider: disqus, gitment, gitalk
 # comments_provider: gitalk
-# !!!é‡è¦!!! è¯·ä¿®æ”¹ä¸‹é¢è¿™äº›ä¿¡æ¯ä¸ºä½ è‡ªå·±ç”³è¯·çš„
+# !!!ÖØÒª!!! ÇëĞŞ¸ÄÏÂÃæÕâĞ©ĞÅÏ¢ÎªÄã×Ô¼ºÉêÇëµÄ
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 # disqus:
@@ -94,16 +94,16 @@ repository: sibosendteam/sibosendteam.github.io
 #     repo: blog-comments
 #     clientID: d2e1cbbd298958076462
     # clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# åœ¨ä½¿ç”¨å…¶å®ƒè¯„è®ºç»„ä»¶æ—¶å¯ç‚¹å‡»æ˜¾ç¤º Disqus
+# ÔÚÊ¹ÓÃÆäËüÆÀÂÛ×é¼şÊ±¿Éµã»÷ÏÔÊ¾ Disqus
 lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
 # ---------------- #
 simple_jekyll_search:
-    # æ˜¯å¦æ”¯æŒå…¨æ–‡æœç´¢
+    # ÊÇ·ñÖ§³ÖÈ«ÎÄËÑË÷
     fulltext: true
-    # æœ€å¤šæ˜¾ç¤ºå¤šå°‘æ¡æœç´¢ç»“æœ
+    # ×î¶àÏÔÊ¾¶àÉÙÌõËÑË÷½á¹û
     limit: 10
 
 # ---------------- #
