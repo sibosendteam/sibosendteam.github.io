@@ -75,7 +75,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: sibosendteam/
+repository: sibosendteam
 # repository: sibosend
 
 # ---------------- #
