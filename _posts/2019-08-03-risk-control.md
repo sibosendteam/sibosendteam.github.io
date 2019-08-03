@@ -1,21 +1,22 @@
 ---
 layout: post
-title: init 测试
-categories: init
-description: init 测试
-keywords: init,测试
+title: 风控笔记
+categories: 风控
+description: 风控笔记
+keywords: 风控
 ---
 
-欢迎来到sibosend团队博客文坛。
+#### 它山之石
+
+* [小米互联网金融系统小米风控实践分享](https://zhuanlan.zhihu.com/p/46821188)
+* [携程在线风控系统架构](https://mp.weixin.qq.com/s/muufqznNNVidPgamlcurCQ)
+
+#### 工具
+
+* 规则引擎 Drools
+* 
+
 
 ---
 
-## 目录
 
-### 测试-1
-
-### 测试-2
-
-### 测试-3
-
-### 测试-4
